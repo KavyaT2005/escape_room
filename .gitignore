@@ -2,3 +2,5 @@
 webserver/
 *.class
 *.class
+webserver/
+*.class
