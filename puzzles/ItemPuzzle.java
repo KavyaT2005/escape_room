@@ -4,7 +4,7 @@ import items.Item;
 import exceptions.PuzzleSolveException;
 import java.util.List;
 import java.util.ArrayList;
-
+import java.util.*;
 public class ItemPuzzle extends Puzzle {
     private List<Item> requiredItems;
     private List<Item> providedItems;
